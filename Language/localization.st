@@ -89,6 +89,49 @@ StringTable {
     2 0
    }
   }
+  CustomStringTableItem "{5966A77EA8EBE3B2}" {
+   Id "VME-Weapon_QBB81_Description"
+   Target_en_us "7.62×39mm light machine gun."
+   Target_fr_fr "Mitrailleuse légère 7,62 × 39 mm."
+   Target_it_it "Mitragliatrice leggera da 7,62×39 mm."
+   Target_de_de "Leichtes Maschinengewehr im Kaliber 7,62 × 39 mm."
+   Target_es_es "Ametralladora ligera de 7,62×39 mm."
+   Target_cs_cz "Lehký kulomet ráže 7,62 × 39 mm."
+   Target_pl_pl "Lekki karabin maszynowy 7,62 × 39 mm."
+   Target_ru_ru "Легкий пулемет 7,62×39 мм."
+   Target_ja_jp "7.62×39mm 軽機関銃。"
+   Target_ko_kr "7.62×39mm 경기관총."
+   Target_pt_br "Metralhadora leve 7.62×39mm."
+   Target_zh_cn "7.62×39mm 班用机枪。"
+   Modified 1499902593
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{5966A77EB61DCAB5}" {
+   Id "VME-Weapon_QBB81_Name"
+   Target_en_us "QBB-81"
+   Target_fr_fr "QBB-81"
+   Target_it_it "QBB-81"
+   Target_de_de "QBB-81"
+   Target_es_es "QBB-81"
+   Target_cs_cz "QBB-81"
+   Target_pl_pl "QBB-81"
+   Target_ru_ru "QBB-81"
+   Target_ja_jp "QBB-81"
+   Target_ko_kr "QBB-81"
+   Target_pt_br "QBB-81"
+   Target_zh_cn "QBB-81"
+   Comment "Designation of the QBB-81"
+   Modified 1499902356
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
   CustomStringTableItem "{5966103997F423F1}" {
    Id "VME-Weapon_QBZ81-1_Description"
    Target_en_us "7.62×39mm assault rifle."
@@ -102,9 +145,9 @@ StringTable {
    Target_ja_jp "7.62×39mm アサルトライフル。"
    Target_ko_kr "7.62×39mm 돌격소총."
    Target_pt_br "Fuzil de assalto 7.62×39mm."
-   Target_zh_cn "7.62×39mm 突击步枪。"
+   Target_zh_cn "7.62×39mm 自动步枪。"
    Comment "Inventory tooltip for the QBZ-81 assault rifle - caliber and weapon type"
-   Modified 1499870885
+   Modified 1499902662
    Author "huhao"
    LastChanged "huhao"
    Labels {
