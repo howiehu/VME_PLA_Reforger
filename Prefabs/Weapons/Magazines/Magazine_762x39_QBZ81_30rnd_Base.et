@@ -1,0 +1,19 @@
+GenericEntity : "{63C1E699345B24F9}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Base.et" {
+ ID "CA6BE4D6BB2D1077"
+ components {
+  InventoryItemComponent "{51EED12B803954CC}" {
+   Attributes SCR_ItemAttributeCollection "{51EED12B86960275}" {
+    ItemDisplayName UIInfo "{51FEE38527BFEA5B}" {
+     Name "#VME-Magazine_QBZ81_Name"
+     Description "#VME-Magazine_QBZ81_Description"
+    }
+   }
+  }
+  MagazineComponent "{CA6BE4D6B4DAFD69}" {
+   UIInfo MagazineUIInfo "{57126733AA401586}" {
+    m_sAmmoCaliber "#AR-AmmunitionID_762x39mm"
+   }
+   AmmoConfig "{6810AE1CC6F1621D}Configs/Weapons/Ammo/Ammo_762x39.conf"
+  }
+ }
+}
