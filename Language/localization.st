@@ -46,5 +46,49 @@ StringTable {
     2 0
    }
   }
+  CustomStringTableItem "{5966103997F423F1}" {
+   Id "VME-Weapon_QBZ81-1_Description"
+   Target_en_us "7.62×39mm assault rifle."
+   Target_fr_fr "Fusil d'assaut de calibre 7,62 × 39 mm."
+   Target_it_it "Fucile d’assalto da 7,62×39 mm."
+   Target_de_de "Sturmgewehr im Kaliber 7,62 × 39 mm."
+   Target_es_es "Fusil de asalto de 7,62×39 mm."
+   Target_cs_cz "Útočná puška ráže 7,62 × 39 mm."
+   Target_pl_pl "Karabinek automatyczny 7,62 × 39 mm."
+   Target_ru_ru "Штурмовая винтовка 7,62×39 мм."
+   Target_ja_jp "7.62×39mm アサルトライフル。"
+   Target_ko_kr "7.62×39mm 돌격소총."
+   Target_pt_br "Fuzil de assalto 7.62×39mm."
+   Target_zh_cn "7.62×39mm 突击步枪。"
+   Comment "Inventory tooltip for the QBZ-81 assault rifle - caliber and weapon type"
+   Modified 1499870885
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{59661039B274A3A6}" {
+   Id "VME-Weapon_QBZ81-1_Name"
+   Target_en_us "QBZ-81-1"
+   Target_fr_fr "QBZ-81-1"
+   Target_it_it "QBZ-81-1"
+   Target_de_de "QBZ-81-1"
+   Target_es_es "QBZ-81-1"
+   Target_cs_cz "QBZ-81-1"
+   Target_pl_pl "QBZ-81-1"
+   Target_ru_ru "QBZ-81-1"
+   Target_ja_jp "QBZ-81-1"
+   Target_ko_kr "QBZ-81-1"
+   Target_pt_br "QBZ-81-1"
+   Target_zh_cn "QBZ-81-1"
+   Comment "Designation of the QBZ81-1 assault rifle, will serve as a display name in the UI"
+   Modified 1499870755
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
  }
 }

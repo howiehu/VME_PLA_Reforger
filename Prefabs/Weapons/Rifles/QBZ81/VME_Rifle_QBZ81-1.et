@@ -1,0 +1,27 @@
+GenericEntity : "{FA5C25BF66A53DCF}Prefabs/Weapons/Rifles/AK74/Rifle_AK74.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  SCR_WeaponAttachmentsStorageComponent "{51F080D5CE45A1A2}" {
+   Attributes SCR_ItemAttributeCollection "{51F080D5C64F12C5}" {
+    ItemDisplayName WeaponUIInfo "{5222CB07CFF6712A}" {
+     Name "#VME-Weapon_QBZ81-1_Name"
+     Description "#VME-Weapon_QBZ81-1_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{55349E9229B55E3D}" {
+     Weight 3.5
+    }
+   }
+  }
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     MagazineTemplate "{D550A3FCC26C6F60}Prefabs/Weapons/Magazines/Magazine_762x39_QBZ81_30rnd_Ball.et"
+    }
+   }
+   UIInfo WeaponUIInfo "{CC3BA6A2C42F09F4}" {
+    Name "#VME-Weapon_QBZ81-1_Name"
+    Description "#VME-Weapon_QBZ81-1_Description"
+   }
+  }
+ }
+}

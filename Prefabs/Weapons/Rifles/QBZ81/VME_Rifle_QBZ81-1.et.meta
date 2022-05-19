@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{93EF5499480AA9CC}Prefabs/Weapons/Rifles/AK74/Rifle_QBZ81-1.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
