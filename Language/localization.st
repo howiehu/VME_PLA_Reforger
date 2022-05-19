@@ -2,6 +2,49 @@ StringTable {
  TargetPrefix "Target_"
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{5966A779C355A320}" {
+   Id "VME-Magazine_QBB81_Description"
+   Target_en_us "Magazine loaded with DBP-56 steel core cartridges."
+   Target_fr_fr "Chargeur de cartouches DBP-56 en acier."
+   Target_it_it "Magazin mit DBP-56-Stahlkernmunition."
+   Target_de_de "Cargador con proyectiles DBP-56 con núcleo de acero."
+   Target_es_es "Zásobník obsahující náboje DBP-56 s ocelovým jádrem."
+   Target_cs_cz "Magazynek załadowany nabojami DBP-56 z pociskiem z rdzeniem stalowym."
+   Target_pl_pl "Магазин с патронами со стальным сердечником DBP-56."
+   Target_ru_ru "DBP-56 スチールコア・カートリッジが装填されたマガジン。"
+   Target_ja_jp "DBP-56 철심탄으로 채워진 탄창."
+   Target_ko_kr "Carregador com cartuchos DBP-56 de núcleo de aço."
+   Target_pt_br "装有 DBP-56 钢芯弹的弹鼓。"
+   Comment "Inventory tooltip for the 45 round 7.62x39mm QBB-81 magazine with steel core cartridges"
+   Modified 1499900971
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{5966A77A1DAE8268}" {
+   Id "VME-Magazine_QBB81_Name"
+   Target_en_us "7.62×39mm 75rnd QBB-81 Mag"
+   Target_fr_fr "Chargeur 75 balles QBB-81 7,62 × 39 mm"
+   Target_it_it "Caricatore QBB-81 75 colpi 7,62×39 mm"
+   Target_de_de "75-Schuss-QBB-81-Magazin. Kaliber 7,62 × 39 mm."
+   Target_es_es "Cargador de QBB-81 de 7,62×39 mm, 75 p."
+   Target_cs_cz "Zásobník QBB-81, 7,62 × 39 mm, 75 ran"
+   Target_pl_pl "75-nab. magazynek 7,62 × 39 mm (QBB-81)"
+   Target_ru_ru "Магазин для РПК-74, 75 патр., 7,62×39 мм"
+   Target_ja_jp "7.62×39mm 75rnd QBB-81 マガジン"
+   Target_ko_kr "7.62×39mm 75발 QBB-81 탄창"
+   Target_pt_br "Carregador QBB-81 c/ 75 mun. 7.62×39mm"
+   Target_zh_cn "7.62×39 毫米 75 发 QBB-81 弹鼓"
+   Comment "UI display name of the 75 round QBB-81 magazine, using 7.62x39mm cartridges"
+   Modified 1499900619
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
   CustomStringTableItem "{5966103FC4CF323C}" {
    Id "VME-Magazine_QBZ81_Description"
    Target_en_us "Magazine loaded with DBP-56 steel core cartridges."
