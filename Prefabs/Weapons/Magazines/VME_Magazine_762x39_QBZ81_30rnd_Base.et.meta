@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{C1DAEF9D7326E9FF}Prefabs/Weapons/Magazines/Magazine_762x39_QBZ_30rnd_Base.et"
+ Name "{2DB9F84FEAA5C7EA}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Base.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

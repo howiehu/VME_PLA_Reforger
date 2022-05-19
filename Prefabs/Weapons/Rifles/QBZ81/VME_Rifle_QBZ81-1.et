@@ -15,7 +15,7 @@ GenericEntity : "{FA5C25BF66A53DCF}Prefabs/Weapons/Rifles/AK74/Rifle_AK74.et" {
   WeaponComponent "{CFBAA4B706BA66E8}" {
    components {
     MuzzleComponent "{CA6BE4D6B867541F}" {
-     MagazineTemplate "{D550A3FCC26C6F60}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et"
+     MagazineTemplate "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et"
     }
    }
    UIInfo WeaponUIInfo "{CC3BA6A2C42F09F4}" {
