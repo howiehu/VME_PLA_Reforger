@@ -1,0 +1,8 @@
+GameProject {
+ ID "VMEPLAReforger"
+ GUID "59656DF79A66F3CF"
+ TITLE "VME PLA Reforger"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
