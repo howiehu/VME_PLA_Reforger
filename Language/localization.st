@@ -17,11 +17,11 @@ StringTable {
    Target_pt_br "Carregador com cartuchos DBP-56 de núcleo de aço."
    Target_zh_cn "装有 DBP-56 钢芯弹的弹鼓。"
    Comment "Inventory tooltip for the 45 round 7.62x39mm QBB-81 magazine with steel core cartridges"
-   Modified 1499912604
+   Modified 1499913888
    Author "huhao"
    LastChanged "huhao"
    Labels {
-    2 0
+    1100 0
    }
   }
   CustomStringTableItem "{5966A77A1DAE8268}" {
@@ -39,11 +39,11 @@ StringTable {
    Target_pt_br "Carregador QBB-81 c/ 75 mun. 7.62×39mm"
    Target_zh_cn "7.62×39 毫米 75 发 QBB-81 弹鼓"
    Comment "UI display name of the 75 round QBB-81 magazine, using 7.62x39mm cartridges"
-   Modified 1499900619
+   Modified 1499913880
    Author "huhao"
    LastChanged "huhao"
    Labels {
-    2 0
+    1100 0
    }
   }
   CustomStringTableItem "{5966103FC4CF323C}" {
@@ -61,11 +61,11 @@ StringTable {
    Target_pt_br "Carregador com cartuchos DBP-56 de núcleo de aço."
    Target_zh_cn "装有 DBP-56 钢芯弹的弹匣。"
    Comment "Inventory tooltip for the default QBZ-81 magazine"
-   Modified 1499870351
+   Modified 1499913872
    Author "huhao"
    LastChanged "huhao"
    Labels {
-    2 0
+    1100 0
    }
   }
   CustomStringTableItem "{5966103C66759F41}" {
@@ -83,11 +83,11 @@ StringTable {
    Target_pt_br "Carregador QBZ-81 c/ 30 mun. 7.62×39mm"
    Target_zh_cn "7.62×39 毫米 30 发 QBZ-81 弹匣"
    Comment "UI display name of the 30 round QBZ-81 magazine, using 7.62x39mm cartridges"
-   Modified 1499869853
+   Modified 1499913858
    Author "huhao"
    LastChanged "huhao"
    Labels {
-    2 0
+    1100 0
    }
   }
   CustomStringTableItem "{5966A77EA8EBE3B2}" {
@@ -104,7 +104,7 @@ StringTable {
    Target_ko_kr "7.62×39mm 경기관총."
    Target_pt_br "Metralhadora leve 7.62×39mm."
    Target_zh_cn "7.62×39mm 班用机枪。"
-   Modified 1499902593
+   Modified 1499913327
    Author "huhao"
    LastChanged "huhao"
    Labels {
@@ -126,7 +126,7 @@ StringTable {
    Target_pt_br "QBB-81"
    Target_zh_cn "QBB-81"
    Comment "Designation of the QBB-81"
-   Modified 1499902356
+   Modified 1499913318
    Author "huhao"
    LastChanged "huhao"
    Labels {
@@ -148,7 +148,7 @@ StringTable {
    Target_pt_br "Fuzil de assalto 7.62×39mm."
    Target_zh_cn "7.62×39mm 自动步枪。"
    Comment "Inventory tooltip for the QBZ-81 assault rifle - caliber and weapon type"
-   Modified 1499902662
+   Modified 1499913298
    Author "huhao"
    LastChanged "huhao"
    Labels {
@@ -170,7 +170,7 @@ StringTable {
    Target_pt_br "QBZ-81-1"
    Target_zh_cn "QBZ-81-1"
    Comment "Designation of the QBZ81-1 assault rifle, will serve as a display name in the UI"
-   Modified 1499870755
+   Modified 1499913283
    Author "huhao"
    LastChanged "huhao"
    Labels {
