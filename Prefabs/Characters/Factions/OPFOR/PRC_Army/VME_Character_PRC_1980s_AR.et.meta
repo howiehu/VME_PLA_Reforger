@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3020B0C2AB43BEFF}Prefabs/Characters/Factions/OPFOR/USSR_Army/VME_Character_PRC_1980s_AR.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

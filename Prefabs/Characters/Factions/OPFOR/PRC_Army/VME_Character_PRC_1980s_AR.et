@@ -1,0 +1,17 @@
+SCR_ChimeraCharacter : "{23ADBBC31B6A3DC6}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_AR.et" {
+ ID "520EC961A090BE1E"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{D00F9E62E98B41BB}Prefabs/Weapons/MachineGuns/QBB81/VME_MG_QBB81.et"
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{54A68D63FA941151}" {
+     PrefabsToSpawn {
+      "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et"
+     }
+    }
+   }
+  }
+ }
+}
