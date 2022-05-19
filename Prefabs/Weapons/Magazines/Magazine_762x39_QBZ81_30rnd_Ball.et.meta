@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D550A3FCC26C6F60}Prefabs/Weapons/Magazines/Magazine_762x39_QBZ81_30rnd_Ball.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
