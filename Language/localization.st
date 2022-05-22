@@ -17,12 +17,13 @@ StringTable {
    Target_pt_br "Carregador com cartuchos DBP-56 de núcleo de aço."
    Target_zh_cn "装有 DBP-56 钢芯弹的弹鼓。"
    Comment "Inventory tooltip for the 45 round 7.62x39mm QBB-81 magazine with steel core cartridges"
-   Modified 1499913888
+   Modified 1500257289
    Author "huhao"
    LastChanged "huhao"
    Labels {
     1100 0
    }
+   SourceFile "{C3D2AD00703A9B2E}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Base.et"
   }
   CustomStringTableItem "{5966A77A1DAE8268}" {
    Id "VME-Magazine_QBB81_Name"
@@ -39,12 +40,13 @@ StringTable {
    Target_pt_br "Carregador QBB-81 c/ 75 mun. 7.62×39mm"
    Target_zh_cn "7.62×39 毫米 75 发 QBB-81 弹鼓"
    Comment "UI display name of the 75 round QBB-81 magazine, using 7.62x39mm cartridges"
-   Modified 1499913880
+   Modified 1500257274
    Author "huhao"
    LastChanged "huhao"
    Labels {
     1100 0
    }
+   SourceFile "{C3D2AD00703A9B2E}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Base.et"
   }
   CustomStringTableItem "{5966103FC4CF323C}" {
    Id "VME-Magazine_QBZ81_Description"
@@ -61,12 +63,13 @@ StringTable {
    Target_pt_br "Carregador com cartuchos DBP-56 de núcleo de aço."
    Target_zh_cn "装有 DBP-56 钢芯弹的弹匣。"
    Comment "Inventory tooltip for the default QBZ-81 magazine"
-   Modified 1499913872
+   Modified 1500257266
    Author "huhao"
    LastChanged "huhao"
    Labels {
     1100 0
    }
+   SourceFile "{2DB9F84FEAA5C7EA}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Base.et"
   }
   CustomStringTableItem "{5966103C66759F41}" {
    Id "VME-Magazine_QBZ81_Name"
@@ -83,12 +86,13 @@ StringTable {
    Target_pt_br "Carregador QBZ-81 c/ 30 mun. 7.62×39mm"
    Target_zh_cn "7.62×39 毫米 30 发 QBZ-81 弹匣"
    Comment "UI display name of the 30 round QBZ-81 magazine, using 7.62x39mm cartridges"
-   Modified 1499913858
+   Modified 1500257252
    Author "huhao"
    LastChanged "huhao"
    Labels {
     1100 0
    }
+   SourceFile "{2DB9F84FEAA5C7EA}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Base.et"
   }
   CustomStringTableItem "{5966A77EA8EBE3B2}" {
    Id "VME-Weapon_QBB81_Description"
@@ -104,12 +108,13 @@ StringTable {
    Target_ko_kr "7.62×39mm 경기관총."
    Target_pt_br "Metralhadora leve 7.62×39mm."
    Target_zh_cn "7.62×39mm 班用机枪。"
-   Modified 1499913327
+   Modified 1500257242
    Author "huhao"
    LastChanged "huhao"
    Labels {
     2 0
    }
+   SourceFile "{D00F9E62E98B41BB}Prefabs/Weapons/MachineGuns/QBB81/VME_MG_QBB81.et"
   }
   CustomStringTableItem "{5966A77EB61DCAB5}" {
    Id "VME-Weapon_QBB81_Name"
@@ -126,12 +131,13 @@ StringTable {
    Target_pt_br "QBB-81"
    Target_zh_cn "QBB-81"
    Comment "Designation of the QBB-81"
-   Modified 1499913318
+   Modified 1500257231
    Author "huhao"
    LastChanged "huhao"
    Labels {
     2 0
    }
+   SourceFile "{D00F9E62E98B41BB}Prefabs/Weapons/MachineGuns/QBB81/VME_MG_QBB81.et"
   }
   CustomStringTableItem "{5966103997F423F1}" {
    Id "VME-Weapon_QBZ81-1_Description"
@@ -148,12 +154,13 @@ StringTable {
    Target_pt_br "Fuzil de assalto 7.62×39mm."
    Target_zh_cn "7.62×39mm 自动步枪。"
    Comment "Inventory tooltip for the QBZ-81 assault rifle - caliber and weapon type"
-   Modified 1499913298
+   Modified 1500257222
    Author "huhao"
    LastChanged "huhao"
    Labels {
     2 0
    }
+   SourceFile "{E4672CFB06A4E556}Prefabs/Weapons/Rifles/QBZ81/VME_Rifle_QBZ81-1.et"
   }
   CustomStringTableItem "{59661039B274A3A6}" {
    Id "VME-Weapon_QBZ81-1_Name"
@@ -170,12 +177,13 @@ StringTable {
    Target_pt_br "QBZ-81-1"
    Target_zh_cn "QBZ-81-1"
    Comment "Designation of the QBZ81-1 assault rifle, will serve as a display name in the UI"
-   Modified 1499913283
+   Modified 1500257190
    Author "huhao"
    LastChanged "huhao"
    Labels {
     2 0
    }
+   SourceFile "{E4672CFB06A4E556}Prefabs/Weapons/Rifles/QBZ81/VME_Rifle_QBZ81-1.et"
   }
  }
 }

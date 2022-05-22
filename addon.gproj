@@ -11,6 +11,44 @@ GameProject {
     StringTables {
      StringTableDefinition "{518AE2E5A9361F76}" {
       StringTableSource "{91E0F6253032266F}Language/localization.st"
+      Languages {
+       LanguageDefinition "{516CA5DA9BCB536C}" {
+        StringTableRuntime "{814F491A30E8C3E7}Language/localization.fr_fr.conf"
+       }
+       LanguageDefinition "{516CAC1F2A647028}" {
+        StringTableRuntime "{0153C62E9DCA4020}Language/localization.it_it.conf"
+       }
+       LanguageDefinition "{516CAC1F2697C5EC}" {
+        StringTableRuntime "{A15B7BEF529A4EFB}Language/localization.de_de.conf"
+       }
+       LanguageDefinition "{516CAC1F1DFCCC41}" {
+        StringTableRuntime "{3AE7BC2DD66B20E5}Language/localization.es_es.conf"
+       }
+       LanguageDefinition "{5174991952800A5A}" {
+        StringTableRuntime "{742561DC41395FDB}Language/localization.cs_cz.conf"
+       }
+       LanguageDefinition "{5174991952C380AF}" {
+        StringTableRuntime "{ED87F5EA8E79EFF8}Language/localization.pl_pl.conf"
+       }
+       LanguageDefinition "{51749919510B618E}" {
+        StringTableRuntime "{6DB17B8E28FE403C}Language/localization.ru_ru.conf"
+       }
+       LanguageDefinition "{5174991950282E55}" {
+        StringTableRuntime "{11487BBCA3BB70B5}Language/localization.ja_jp.conf"
+       }
+       LanguageDefinition "{517499195068397A}" {
+        StringTableRuntime "{B1F653103096738C}Language/localization.ko_kr.conf"
+       }
+       LanguageDefinition "{5174991ABCBF3C54}" {
+        StringTableRuntime "{38F06F26B587254E}Language/localization.pt_br.conf"
+       }
+       LanguageDefinition "{5174991ABC825E60}" {
+        StringTableRuntime "{3D5940457D702E74}Language/localization.zh_cn.conf"
+       }
+       LanguageDefinition "{5174991ACFFBD1F3}" {
+        StringTableRuntime "{FFABF1A438694BFC}Language/localization.en_us.conf"
+       }
+      }
      }
     }
    }
