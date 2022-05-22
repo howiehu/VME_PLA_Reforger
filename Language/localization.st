@@ -263,5 +263,53 @@ StringTable {
    }
    SourceFile "{E4672CFB06A4E556}Prefabs/Weapons/Rifles/QBZ81/VME_Rifle_QBZ81-1.et"
   }
+  CustomStringTableItem "{596C271400CCE2DB}" {
+   Id "VME-Weapon_QSZ54_Description"
+   Target_en_us "762×22mm semi-automatic pistol."
+   Target_fr_fr "Pistolet semi-automatique de calibre 762 × 22 mm."
+   Target_it_it "Pistola semi-automatica da 762×22 mm."
+   Target_de_de "Halbautomatik-Pistole im Kaliber 762×22mm."
+   Target_es_es "Pistola semiautomática de 762×22 mm."
+   Target_cs_cz "Poloautomatická pistole ráže 762 × 22 mm."
+   Target_pl_pl "Pistolet samopowtarzalny 762 × 22 mm."
+   Target_ru_ru "Полуавтоматический пистолет 762×22 мм."
+   Target_ja_jp "セミオートマチックの 762×22mm ピストル。"
+   Target_ko_kr "762×22mm 반자동권총."
+   Target_pt_br "Pistola semiautomática 762×22mm."
+   Target_zh_cn "762×22mm 半自动手枪。"
+   Comment "Inventory tooltip for the QSZ-54 pistol - caliber, action and weapon type"
+   Status TRANSLATION_DONE
+   Modified 1500268805
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+   SourceFile "{EE18912DBDDDB6C7}Prefabs/Weapons/Handguns/QSZ54/VME_Handgun_QSZ54.et"
+  }
+  CustomStringTableItem "{596C271423EA46E7}" {
+   Id "VME-Weapon_QSZ54_Name"
+   Target_en_us "QSZ-54"
+   Target_fr_fr "QSZ-54"
+   Target_it_it "QSZ-54"
+   Target_de_de "QSZ-54"
+   Target_es_es "QSZ-54"
+   Target_cs_cz "QSZ-54"
+   Target_pl_pl "QSZ-54"
+   Target_ru_ru "QSZ-54"
+   Target_ja_jp "QSZ-54"
+   Target_ko_kr "QSZ-54"
+   Target_pt_br "QSZ-54"
+   Target_zh_cn "QSZ-54"
+   Comment "Designation of the QSZ-54 handgun, will serve as a display name in the UI"
+   Status TRANSLATION_DONE
+   Modified 1500268800
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+   SourceFile "{EE18912DBDDDB6C7}Prefabs/Weapons/Handguns/QSZ54/VME_Handgun_QSZ54.et"
+  }
  }
 }

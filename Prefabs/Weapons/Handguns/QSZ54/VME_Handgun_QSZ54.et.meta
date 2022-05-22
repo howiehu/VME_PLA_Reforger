@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EE18912DBDDDB6C7}Prefabs/Weapons/Handguns/QSZ54/VME_Handgun_QSZ54.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

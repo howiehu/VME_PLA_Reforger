@@ -1,0 +1,16 @@
+GenericEntity : "{C0F7DD85A86B2900}Prefabs/Weapons/Handguns/PM/Handgun_PM.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{50F64C45E7271D47}" {
+     MagazineTemplate "{59B705E9AD37D95A}Prefabs/Weapons/Magazines/VME_Magazine_762x25_QSZ54_8rnd_Ball.et"
+    }
+   }
+   UIInfo WeaponUIInfo "{CC3BA6A2C42F09F4}" {
+    Name "#VME-Weapon_QSZ54_Name"
+    Description "#VME-Weapon_QSZ54_Description"
+   }
+  }
+ }
+}
