@@ -1,0 +1,19 @@
+GenericEntity : "{9B5AA2C731485ACA}Prefabs/Weapons/Magazines/Magazine_9x18_PM_8rnd_Base.et" {
+ ID "CA6BE4D6BB2D1077"
+ components {
+  InventoryItemComponent "{51EED12B803954CC}" {
+   Attributes SCR_ItemAttributeCollection "{51EED12B86960275}" {
+    ItemDisplayName UIInfo "{51FEE38527BFEA5B}" {
+     Name "#VME-Magazine_QSZ54_Name"
+     Description "#VME-Magazine_QSZ54_Description"
+    }
+   }
+  }
+  MagazineComponent "{CA6BE4D6B4DAFD69}" {
+   UIInfo MagazineUIInfo "{57126733AA401586}" {
+    m_sAmmoCaliber "#VME-AmmunitionID_762x25mm"
+   }
+   AmmoConfig "{A991B95B956A6E61}Configs/Weapons/Ammo/VME_Ammo_762x25_DAP51.conf"
+  }
+ }
+}

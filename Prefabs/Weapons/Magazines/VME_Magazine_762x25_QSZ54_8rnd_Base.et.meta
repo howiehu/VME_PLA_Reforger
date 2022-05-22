@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{98EA3A7DB57F989F}Prefabs/Weapons/Magazines/VME_Magazine_762x25_QSZ54_8rnd_Base.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
