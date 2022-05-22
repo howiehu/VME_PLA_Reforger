@@ -7,9 +7,6 @@ GenericEntity : "{9569026177545A20}Prefabs/Weapons/Magazines/Magazine_545x39_RPK
      Name "#VME-Magazine_QBB81_Name"
      Description "#VME-Magazine_QBB81_Description"
     }
-    ItemPhysAttributes ItemPhysicalAttributes "{548695E22AFB97DA}" {
-     Weight 0.5
-    }
    }
   }
   MagazineComponent "{CA6BE4D6B4DAFD69}" {

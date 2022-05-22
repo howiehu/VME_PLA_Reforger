@@ -7,9 +7,6 @@ GenericEntity : "{FA5C25BF66A53DCF}Prefabs/Weapons/Rifles/AK74/Rifle_AK74.et" {
      Name "#VME-Weapon_QBZ81-1_Name"
      Description "#VME-Weapon_QBZ81-1_Description"
     }
-    ItemPhysAttributes ItemPhysicalAttributes "{55349E9229B55E3D}" {
-     Weight 3.5
-    }
    }
   }
   WeaponComponent "{CFBAA4B706BA66E8}" {
