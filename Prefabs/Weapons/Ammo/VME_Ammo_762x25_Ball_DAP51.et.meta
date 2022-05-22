@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EFD1716E88018C4C}Prefabs/Weapons/Ammo/VME_Ammo_762x25_Ball_DAP51.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

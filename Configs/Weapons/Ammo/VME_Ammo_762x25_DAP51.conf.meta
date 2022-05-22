@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A991B95B956A6E61}Configs/Weapons/Ammo/VME_Ammo_762x25_DAP51.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
