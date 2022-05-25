@@ -63,3 +63,5 @@ VME PLA Reforger的1.0版本计划包括1980年代末期（实际正式列装的
 ## 版权信息
 
 本项目采用[Arma Publich Lisence（AP-L）](https://www.bohemia.net/community/licenses/arma-public-license)协议，通过开源方式进行开发、维护与运营。
+
+因为找不到适合的反映81式迷彩的模组预览图，所以目前暂时使用了电视连续剧《王牌部队》的海报片段作为预览图的一部分，如有侵权，望告知。
