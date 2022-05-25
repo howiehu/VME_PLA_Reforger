@@ -4,7 +4,7 @@
 
 VME PLA Reforger是游戏Arma Reforger的一个模拟中国人民解放军武器装备的游戏模组（MOD）。
 
-`VME`是`中国虚拟军事工程师（China Virtual Military Engineer）`的简称，是中国《闪点行动（OFP）》/《武装行动（Arma）》最早也是历史最悠久的社区之一，以历史上的VME PLA MOD而文明。
+`VME`是`中国虚拟军事工程师（China Virtual Military Engineer）`的简称，是中国《闪点行动（OFP）》/《武装突袭（Arma）》最早也是历史最悠久的社区之一，以历史上的VME PLA MOD而文明。
 
 VME论坛的地址是：[www.chinavme.com](http://www.chinavme.com)。（由于论坛时代已经过去，核心成员也都随着年纪增长而淡出，所以当前属于停滞和缺少维护状态，后续是否能持续运作还不可知。）
 
