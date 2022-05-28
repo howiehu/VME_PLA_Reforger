@@ -25,6 +25,75 @@ StringTable {
     1000
    }
   }
+  CustomStringTableItem "{5978D67E0A4AE8B6}" {
+   Id "VME-Faction_PRC"
+   Target_en_us "Chinese People's Liberation Army"
+   Target_fr_fr "Armée populaire de libération chinoise"
+   Target_it_it "Esercito popolare di liberazione cinese"
+   Target_de_de "Chinesische Volksbefreiungsarmee"
+   Target_es_es "Ejército Popular de Liberación de China"
+   Target_cs_cz "Čínská lidová osvobozenecká armáda"
+   Target_pl_pl "Chińska Armia Ludowo-Wyzwoleńcza"
+   Target_ru_ru "Народно-освободительная армия Китая"
+   Target_ja_jp "中国人民解放軍"
+   Target_ko_kr "중국 인민해방군"
+   Target_pt_br "Exército de Libertação do Povo Chinês"
+   Target_zh_cn "中国人民解放军"
+   Comment "Faction name."
+   Status TRANSLATION_DONE
+   Modified 1501095599
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    0 600
+   }
+  }
+  CustomStringTableItem "{5978D67E4CE6EC71}" {
+   Id "VME-Faction_PRC-UC"
+   Target_en_us "CHINESE PEOPLE'S LIBERATION ARMY"
+   Target_fr_fr "ARMÉE POPULAIRE DE LIBÉRATION CHINOISE"
+   Target_it_it "ESERCITO POPOLARE DI LIBERAZIONE CINESE"
+   Target_de_de "CHINESISCHE VOLKSBEFREIUNGSARMEE"
+   Target_es_es "EJÉRCITO POPULAR DE LIBERACIÓN DE CHINA"
+   Target_cs_cz "ČÍNSKÁ LIDOVÁ OSVOBOZENECKÁ ARMÁDA"
+   Target_pl_pl "CHIŃSKA ARMIA LUDOWO-WYZWOLEŃCZA"
+   Target_ru_ru "НАРОДНО-ОСВОБОДИТЕЛЬНАЯ АРМИЯ КИТАЯ"
+   Target_ja_jp "中国人民解放軍"
+   Target_ko_kr "중국 인민해방군"
+   Target_pt_br "EXÉRCITO DE LIBERTAÇÃO DO POVO CHINÊS"
+   Target_zh_cn "中国人民解放军"
+   Comment "Faction name."
+   Status TRANSLATION_DONE
+   Modified 1501095416
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    0 600
+   }
+  }
+  CustomStringTableItem "{5978D671945456A8}" {
+   Id "VME-Faction_PRC_Short"
+   Target_en_us "China"
+   Target_fr_fr "Cina"
+   Target_it_it "China"
+   Target_de_de "Porcelana"
+   Target_es_es "Čína"
+   Target_cs_cz "Chiny"
+   Target_pl_pl "Target Cs Cz"
+   Target_ru_ru "Китай"
+   Target_ja_jp "中国"
+   Target_ko_kr "중국"
+   Target_pt_br "China"
+   Target_zh_cn "中国"
+   Comment "Faction name."
+   Status TRANSLATION_DONE
+   Modified 1501099904
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    0
+   }
+  }
   CustomStringTableItem "{5966A779C355A320}" {
    Id "VME-Magazine_QBB81_Description"
    Target_en_us "Magazine loaded with DBP-56 steel core cartridges."
