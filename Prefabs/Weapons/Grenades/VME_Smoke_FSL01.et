@@ -1,0 +1,32 @@
+GenericEntity : "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" {
+ ID "1F80A73AAE197BBE"
+ components {
+  InventoryItemComponent "{51FAA3E3CF6F087A}" {
+   Attributes SCR_ItemAttributeCollection "{51FAA3E3C2D19BD4}" {
+    ItemDisplayName WeaponUIInfo "{56CA88CA4203CB8F}" {
+     Name "#VME-Weapon_FSL01_Name"
+     Description "#VME-Weapon_FSL01_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{56CA88C9BFD602AD}" {
+     Weight 0.6
+    }
+   }
+  }
+  SCR_WeaponAttachmentsStorageComponent "{5260C44731817A21}" {
+   Attributes SCR_ItemAttributeCollection "{5260C447375DE16C}" {
+    ItemDisplayName WeaponUIInfo "{5270B21ED6695931}" {
+     Name "#VME-Weapon_FSL01_Name"
+     Description "#VME-Weapon_FSL01_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 0.6
+    }
+   }
+  }
+  WeaponComponent "{6D23670EA18BF513}" {
+   UIInfo GrenadeUIInfo "{172367262E10E042}" {
+    m_sAmmoType "#VME-AmmoType_FSL01"
+   }
+  }
+ }
+}

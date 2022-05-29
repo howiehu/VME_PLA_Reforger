@@ -1,6 +1,9 @@
 SCR_ChimeraCharacter : "{23ADBBC31B6A3DC6}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_AR.et" {
  ID "520EC961A090BE1E"
  components {
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate "{116457AC2D91BAA0}Prefabs/Weapons/Grenades/VME_Smoke_FSL01.et"
+  }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate "{D00F9E62E98B41BB}Prefabs/Weapons/MachineGuns/QBB81/VME_MG_QBB81.et"
   }
@@ -41,6 +44,9 @@ SCR_ChimeraCharacter : "{23ADBBC31B6A3DC6}Prefabs/Characters/Factions/OPFOR/USSR
     }
     ItemsInitConfigurationItem "{5590D9E7EF8BF25D}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+     PrefabsToSpawn {
+      "{116457AC2D91BAA0}Prefabs/Weapons/Grenades/VME_Smoke_FSL01.et"
+     }
     }
     ItemsInitConfigurationItem "{5888FD8A82CA9F03}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
@@ -48,7 +54,7 @@ SCR_ChimeraCharacter : "{23ADBBC31B6A3DC6}Prefabs/Characters/Factions/OPFOR/USSR
     ItemsInitConfigurationItem "{54A68D63FA941151}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
      PrefabsToSpawn {
-      "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et"
+      "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et"
      }
     }
    }

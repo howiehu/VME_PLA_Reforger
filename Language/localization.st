@@ -2,6 +2,26 @@ StringTable {
  TargetPrefix "Target_"
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{597AD2619D2CC9D1}" {
+   Id "VME-AmmoType_FSL01"
+   Target_en_us "FSL-01"
+   Target_fr_fr "FSL-01"
+   Target_it_it "FSL-01"
+   Target_de_de "FSL-01"
+   Target_es_es "FSL-01"
+   Target_cs_cz "FSL-01"
+   Target_pl_pl "FSL-01"
+   Target_ru_ru "FSL-01"
+   Target_ja_jp "FSL-01"
+   Target_ko_kr "FSL-01"
+   Target_pt_br "FSL-01"
+   Target_zh_cn "FSL-01"
+   Comment "Ammunition name. Transliteration only."
+   Status TRANSLATION_DONE
+   Modified 1501223413
+   Author "huhao"
+   LastChanged "huhao"
+  }
   CustomStringTableItem "{596C270A7B3A77A8}" {
    Id "VME-AmmunitionID_762x25mm"
    Target_en_us "762x25mm"
@@ -317,6 +337,52 @@ StringTable {
    Comment "Designation of the Type 82-2 grenade, will serve as a display name in the UI"
    Status TRANSLATION_DONE
    Modified 1501193589
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{597AD2664A2FCD08}" {
+   Id "VME-Weapon_FSL01_Description"
+   Target_en_us "FSL-01 white smoke grenade for signaling, masking and target marking."
+   Target_fr_fr "Grenade fumigène blanche FSL-01 pour la signalisation, le masquage et le marquage de cible."
+   Target_it_it "Granata fumogena bianca FSL-01 per segnalazione, mascheratura e marcatura del bersaglio."
+   Target_de_de "FSL-01 weiße Rauchgranate zur Signalisierung, Maskierung und Zielmarkierung."
+   Target_es_es "Granada de humo blanca FSL-01 para señalización, enmascaramiento y marcaje de blancos."
+   Target_cs_cz "FSL-01 bílý kouřový granát pro signalizaci, maskování a značení cílů."
+   Target_pl_pl "Granat dymny FSL-01 biały do ​​sygnalizacji, maskowania i oznaczania celów."
+   Target_ru_ru "Белая дымовая граната FSL-01 для подачи сигналов, маскировки и целеуказания."
+   Target_ja_jp "信号、マスキング、ターゲットマーキング用のFSL-01白発煙手榴弾。"
+   Target_ko_kr "신호, 마스킹 및 표적 표시를 위한 FSL-01 백색 연막 수류탄."
+   Target_pt_br "Granada de fumaça branca FSL-01 para sinalização, mascaramento e marcação de alvos."
+   Target_zh_cn "FSL-01型白色发烟手榴弹，用于发信号、遮蔽以及目标标记。"
+   Comment "Inventory tooltip for the FSL-01 white smoke grenade"
+   Status TRANSLATION_DONE
+   Modified 1501223572
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{597AD26650704FDB}" {
+   Id "VME-Weapon_FSL01_Name"
+   Target_en_us "FSL-01"
+   Target_fr_fr "FSL-01"
+   Target_it_it "FSL-01"
+   Target_de_de "FSL-01"
+   Target_es_es "FSL-01"
+   Target_cs_cz "FSL-01"
+   Target_pl_pl "FSL-01"
+   Target_ru_ru "FSL-01"
+   Target_ja_jp "FSL-01"
+   Target_ko_kr "FSL-01"
+   Target_pt_br "FSL-01"
+   Target_zh_cn "FSL-01"
+   Comment "Designation of the FSL-01 white smoke grenade, will serve as a display name in the UI"
+   Status TRANSLATION_DONE
+   Modified 1501223300
    Author "huhao"
    LastChanged "huhao"
    Labels {

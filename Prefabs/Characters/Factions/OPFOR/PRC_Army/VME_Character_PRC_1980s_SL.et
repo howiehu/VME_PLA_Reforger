@@ -48,7 +48,7 @@ SCR_ChimeraCharacter : "{5436629450D8387A}Prefabs/Characters/Factions/OPFOR/USSR
     ItemsInitConfigurationItem "{54A68D6220405B43}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
      PrefabsToSpawn {
-      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et"
+      "{116457AC2D91BAA0}Prefabs/Weapons/Grenades/VME_Smoke_FSL01.et" "{116457AC2D91BAA0}Prefabs/Weapons/Grenades/VME_Smoke_FSL01.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et"
      }
     }
    }
