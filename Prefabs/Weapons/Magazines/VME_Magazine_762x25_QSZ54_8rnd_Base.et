@@ -10,6 +10,8 @@ GenericEntity : "{9B5AA2C731485ACA}Prefabs/Weapons/Magazines/Magazine_9x18_PM_8r
    }
   }
   MagazineComponent "{CA6BE4D6B4DAFD69}" {
+   MagazineWell VME_MagazineWellTokarevTT33 "{05B3A6C89A212814}" {
+   }
    UIInfo MagazineUIInfo "{57126733AA401586}" {
     m_sAmmoCaliber "#VME-AmmunitionID_762x25mm"
    }
