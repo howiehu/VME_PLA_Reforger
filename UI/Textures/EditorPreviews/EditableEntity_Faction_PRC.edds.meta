@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{CD26F5F3EDF88B01}UI/Textures/Editor/EditableEntities/EditableEntity_Faction_PRC.edds"
+ Name "{CD26F5F3EDF88B01}UI/Textures/EditorPreviews/EditableEntity_Faction_PRC.edds"
  Configurations {
   PNGResourceClass PC : "{DC555BD399D92412}Configs/System/ResourceTypes/PC/TextureUnspecified.conf" {
   }
