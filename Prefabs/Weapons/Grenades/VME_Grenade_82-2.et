@@ -1,0 +1,16 @@
+GenericEntity : "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" {
+ ID "E8F00BF730225B00"
+ components {
+  TimerTriggerComponent "{5184D79CBEBEF784}" {
+   TIMER 3.5
+  }
+  InventoryItemComponent "{51FAA3E3CF6F087A}" {
+   Attributes SCR_ItemAttributeCollection "{51FAA3E3C2D19BD4}" {
+    ItemDisplayName WeaponUIInfo "{56CA88CA3C5E4779}" {
+     Name "#VME-Weapon_82-2_Name"
+     Description "#VME-Weapon_82-2_Description"
+    }
+   }
+  }
+ }
+}

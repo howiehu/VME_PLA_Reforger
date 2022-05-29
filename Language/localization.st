@@ -237,6 +237,52 @@ StringTable {
    }
    SourceFile "{98EA3A7DB57F989F}Prefabs/Weapons/Magazines/VME_Magazine_762x25_QSZ54_8rnd_Base.et"
   }
+  CustomStringTableItem "{597A2CCACEE294B9}" {
+   Id "VME-Weapon_82-2_Description"
+   Target_en_us "All plastic handleless steel ball grenade with a 3.5 second timed fuze."
+   Target_fr_fr "Grenade à billes en acier sans poignée entièrement en plastique avec une fusée temporisée de 3,5 secondes."
+   Target_it_it "Granata a sfera in acciaio senza manico in plastica con una spoletta temporizzata di 3,5 secondi."
+   Target_de_de "Ganz aus Kunststoff gefertigte grifflose Stahlkugelgranate mit einem zeitgesteuerten 3,5-Sekunden-Zünder."
+   Target_es_es "Granada de bola de acero sin mango de plástico con una espoleta cronometrada de 3,5 segundos."
+   Target_cs_cz "Celoplastový ocelový kuličkový granát bez rukojeti s 3,5 sekundovým časovaným zápalníkem."
+   Target_pl_pl "Wykonany w całości z tworzywa sztucznego, stalowy granat kulowy bez uchwytu z zapalnikiem z zapalnikiem czasowym 3,5 sekundy."
+   Target_ru_ru "Цельнопластиковая стальная шариковая граната без рукоятки с 3,5-секундным взрывателем."
+   Target_ja_jp "3.5秒のタイミングの信管を備えたすべてのプラスチック製のハンドルレス鋼球手榴弾。"
+   Target_ko_kr "3.5초 시한 신관이 있는 손잡이가 없는 모든 플라스틱 수류탄."
+   Target_pt_br "Granada de esfera de aço sem alça de plástico com espoleta cronometrada de 3,5 segundos."
+   Target_zh_cn "全塑无柄钢珠手榴弹，设有 3.5 秒的定时引信。"
+   Comment "Inventory tooltip for the Type 82-2 grenade - type and fuse"
+   Status TRANSLATION_DONE
+   Modified 1501193695
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{597A2CCAFEAAB6E0}" {
+   Id "VME-Weapon_82-2_Name"
+   Target_en_us "82-2"
+   Target_fr_fr "82-2"
+   Target_it_it "82-2"
+   Target_de_de "82-2"
+   Target_es_es "82-2"
+   Target_cs_cz "82-2"
+   Target_pl_pl "82-2"
+   Target_ru_ru "82-2"
+   Target_ja_jp "82-2"
+   Target_ko_kr "82-2"
+   Target_pt_br "82-2"
+   Target_zh_cn "82-2"
+   Comment "Designation of the Type 82-2 grenade, will serve as a display name in the UI"
+   Status TRANSLATION_DONE
+   Modified 1501193589
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
   CustomStringTableItem "{5966A77EA8EBE3B2}" {
    Id "VME-Weapon_QBB81_Description"
    Target_en_us "7.62×39mm light machine gun."
