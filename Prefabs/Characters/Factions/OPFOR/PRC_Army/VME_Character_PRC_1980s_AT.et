@@ -1,0 +1,68 @@
+SCR_ChimeraCharacter : "{1C78331E156A3D65}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_AT.et" {
+ ID "200D264F0EEA1A28"
+ components {
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{E4672CFB06A4E556}Prefabs/Weapons/Rifles/QBZ81/VME_Rifle_QBZ81-1.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
+   WeaponTemplate "{8EC468362F78E2C3}Prefabs/Weapons/Launchers/PF69/VME_Launcher_PF69-1.et"
+  }
+  FactionAffiliationComponent "{520EC9618276DF23}" {
+   "faction affiliation" "VME_PRC"
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "VME_PRC"
+    m_aAuthoredLabels {
+     2 1653750936 25
+    }
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{BBA08EC4EC40FA94}Prefabs/Characters/Uniforms/Jacket_M70.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{06BC3F18B47799AE}Prefabs/Characters/Uniforms/Pants_M70.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{0ACE0527AFB9F725}Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{56607B902B535037}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_M70.et"
+    }
+    ItemsInitConfigurationItem "{54A4D05608012D36}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_M70.et"
+    }
+    ItemsInitConfigurationItem "{54A68D62A0B36F76}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+     PrefabsToSpawn {
+      "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{ECE4C7DBF2ED862F}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBZ81_30rnd_Ball.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et"
+     }
+    }
+    ItemsInitConfigurationItem "{54A68D62A07358B0}" {
+     PrefabsToSpawn {
+      "{CBEA1084D78E05E9}Prefabs/Weapons/Ammo/VME_Ammo_Rocket_Type69-1.et" "{CBEA1084D78E05E9}Prefabs/Weapons/Ammo/VME_Ammo_Rocket_Type69-1.et"
+     }
+    }
+    ItemsInitConfigurationItem "{568AD28101F4B0E9}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+     PrefabsToSpawn {
+      "{116457AC2D91BAA0}Prefabs/Weapons/Grenades/VME_Smoke_FSL01.et" "{116457AC2D91BAA0}Prefabs/Weapons/Grenades/VME_Smoke_FSL01.et"
+     }
+    }
+    ItemsInitConfigurationItem "{5888FD89542C870C}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+    }
+   }
+  }
+ }
+}

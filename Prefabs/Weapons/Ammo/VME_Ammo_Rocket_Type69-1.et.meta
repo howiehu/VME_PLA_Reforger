@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{CBEA1084D78E05E9}Prefabs/Weapons/Ammo/VME_Ammo_Rocket_Type69-1.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

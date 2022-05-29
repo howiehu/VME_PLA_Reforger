@@ -1,0 +1,12 @@
+GenericEntity : "{D649A52C2A1A29FF}Prefabs/Weapons/Warheads/Warhead_HEAT_PG7VM.et" {
+ ID "9D9BE68EA2672F76"
+ components {
+  BaseTriggerComponent "{55129E81CBAA1390}" {
+   PROJECTILE_EFFECTS {
+    SubmunitionDamageEffect "{567CB8E002C26D97}" {
+     Prefab "{77E951EB1BF3C55D}Prefabs/Weapons/Ammo/VME_Ammo_Rocket_Type69-1_Penetrator.et"
+    }
+   }
+  }
+ }
+}

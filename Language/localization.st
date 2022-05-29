@@ -22,6 +22,26 @@ StringTable {
    Author "huhao"
    LastChanged "huhao"
   }
+  CustomStringTableItem "{597ADE243D6ED9AF}" {
+   Id "VME-AmmoType_Type69-1"
+   Target_en_us "Type 69-1"
+   Target_fr_fr "Taper 69-1"
+   Target_it_it "Digitare 69-1"
+   Target_de_de "Typ 69-1"
+   Target_es_es "Tipo 69-1"
+   Target_cs_cz "Typ 69-1"
+   Target_pl_pl "Typ 69-1"
+   Target_ru_ru "Тип 69-1"
+   Target_ja_jp "タイプ69-1"
+   Target_ko_kr "유형 69-1"
+   Target_pt_br "Tipo 69-1"
+   Target_zh_cn "69-1 式"
+   Comment "Ammunition name. Transliteration only."
+   Status TRANSLATION_DONE
+   Modified 1501228411
+   Author "huhao"
+   LastChanged "huhao"
+  }
   CustomStringTableItem "{596C270A7B3A77A8}" {
    Id "VME-AmmunitionID_762x25mm"
    Target_en_us "762x25mm"
@@ -39,6 +59,29 @@ StringTable {
    Comment "Caliber of ammuntion used by e.g. QSZ-54"
    Status TRANSLATION_DONE
    Modified 1500267945
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    1000
+   }
+  }
+  CustomStringTableItem "{597ADE2BBF310C23}" {
+   Id "VME-AmmunitionID_85mm"
+   Target_en_us "85 mm"
+   Target_fr_fr "85 mm"
+   Target_it_it "85 mm"
+   Target_de_de "85 mm"
+   Target_es_es "85 mm"
+   Target_cs_cz "85 mm"
+   Target_pl_pl "85 mm"
+   Target_ru_ru "85 мм"
+   Target_ja_jp "85mm"
+   Target_ko_kr "85mm"
+   Target_pt_br "85mm"
+   Target_zh_cn "85 毫米"
+   Comment "Caliber of ammuntion used by e.g. Type 69-1 warhead of Hydra-85 rocket"
+   Status TRANSLATION_DONE
+   Modified 1501228495
    Author "huhao"
    LastChanged "huhao"
    Labels {
@@ -257,6 +300,52 @@ StringTable {
    }
    SourceFile "{98EA3A7DB57F989F}Prefabs/Weapons/Magazines/VME_Magazine_762x25_QSZ54_8rnd_Base.et"
   }
+  CustomStringTableItem "{597ADE249B04ECE6}" {
+   Id "VME-Magazine_Type69-1_Description"
+   Target_en_us "300 meters effective range, high explosive anti-tank round with 85mm warhead for an PF-69 grenade launcher."
+   Target_fr_fr "Grenade antichar à tête hautement explosive de calibre 85 mm et d'une portée pratique de 300 m, pour lance-roquettes PF-69."
+   Target_it_it "Granata anticarro altamente esplosiva con portata effettiva di 300 metri e testata da 85 mm per lanciagranate PF-69."
+   Target_de_de "Hochexplosives Panzerabwehrgeschoss mit 300 m effektiver Reichweite. Kaliber 85 mm Gefechtskopf für den PF-69-Raketenwerfer."
+   Target_es_es "Proyectil antitanque de alta potencia explosiva con alcance efectivo de 300 m y ojiva de 85 mm para lanzagranadas PF-69."
+   Target_cs_cz "85mm kumulativní protipancéřový granát do granátometu PF-69, účinný dostřel 300 metrů."
+   Target_pl_pl "85-mm przeciwpancerny nabój z głowicą kumulacyjną do ręcznego granatnika przeciwpancernego PF-69, zasięg skuteczny 300 metrów."
+   Target_ru_ru "Фугасно-бронебойный снаряд с дальностью поражения 300 метров и основной боевой частью 85 мм для гранатомета PF-69."
+   Target_ja_jp "PF-69 グレネードランチャー用 85mm 弾頭の対戦車榴弾。有効射程は 300 メートル。"
+   Target_ko_kr "PF-69 유탄발사기에 장전하는 대전차고폭탄 유탄으로서, 85mm 구경의 탄두가 달려 있고 유효사거리는 300미터입니다."
+   Target_pt_br "Alcance efetivo de 300 metros, munição alto explosiva antitanque com ogiva de 85mm para lança-rojão PF-69."
+   Target_zh_cn "300 米有效射程的高爆反坦克弹，具有 85 毫米战斗部，用于 PF-69 榴弹发射器。"
+   Comment "Inventory tooltip for the Type 69-1 grenade of PF-69, High-Explosive Anti-Tank warhead"
+   Status TRANSLATION_DONE
+   Modified 1501228172
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    1100 0
+   }
+  }
+  CustomStringTableItem "{597ADE254B80BD34}" {
+   Id "VME-Magazine_Type69-1_Name"
+   Target_en_us "85mm HEAT Type 69-1 Grenade"
+   Target_fr_fr "Grenade 85mm HEAT Type 69-1"
+   Target_it_it "Granata tipo 69-1 HEAT da 85 mm"
+   Target_de_de "85 mm HEAT Typ 69-1 Granate"
+   Target_es_es "Granada HEAT tipo 69-1 de 85 mm"
+   Target_cs_cz "85mm HEAT Typ 69-1 Granát"
+   Target_pl_pl "Granat PK 85mm Typ 69-1"
+   Target_ru_ru "85-мм кумулятивная граната Тип 69-1"
+   Target_ja_jp "85mm HEAT タイプ 69-1 榴弾"
+   Target_ko_kr "85mm HEAT 69-1 수류탄"
+   Target_pt_br "Granada 85mm HEAT Tipo 69-1"
+   Target_zh_cn "85 毫米 69-1 式榴弹 (HEAT)"
+   Comment "UI display name of the Type 69-1 grenade of PF-69"
+   Status TRANSLATION_DONE
+   Modified 1501228016
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    1100 0
+   }
+  }
   CustomStringTableItem "{597A93E8F5C099DD}" {
    Id "VME-Vest_Type81_Description"
    Target_en_us "Simple canvas chest rig for AK-type magazines, used by many military forces. "
@@ -383,6 +472,52 @@ StringTable {
    Comment "Designation of the FSL-01 white smoke grenade, will serve as a display name in the UI"
    Status TRANSLATION_DONE
    Modified 1501223300
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{597ADE2562CE98D1}" {
+   Id "VME-Weapon_PF69-1_Description"
+   Target_en_us "40mm reloadable anti-tank grenade launcher."
+   Target_fr_fr "Lance-roquettes antichar rechargeable de 40 mm."
+   Target_it_it "Lanciagranate anticarro ricaricabile da 40 mm."
+   Target_de_de "Nachladbarer 40mm-Panzerabwehr-Raketenwerfer."
+   Target_es_es "Lanzagranadas antitanque recargable de 40 mm."
+   Target_cs_cz "Protitankový granátomet ráže 40 mm. Možno opakovaně nabíjet."
+   Target_pl_pl "40 mm ręczny granatnik przeciwpancerny wielokrotnego użytku."
+   Target_ru_ru "Перезаряжаемый противотанковый гранатомет 40 мм."
+   Target_ja_jp "再装填可能な 40mm 対戦車用グレネードランチャー。"
+   Target_ko_kr "40mm 재장전용 대전차 유탄발사기."
+   Target_pt_br "Lança-granadas antitanque recarregável de 40mm."
+   Target_zh_cn "40mm 可重复装填式反坦克榴弹发射器。"
+   Comment "Inventory tooltip for the PF-69-1 grenade launcher - caliber (of the tube, not warhead) and purpose"
+   Status TRANSLATION_DONE
+   Modified 1501227934
+   Author "huhao"
+   LastChanged "huhao"
+   Labels {
+    2 0
+   }
+  }
+  CustomStringTableItem "{597ADE250A70E003}" {
+   Id "VME-Weapon_PF69-1_Name"
+   Target_en_us "PF-69-1"
+   Target_fr_fr "PF-69-1"
+   Target_it_it "PF-69-1"
+   Target_de_de "PF-69-1"
+   Target_es_es "PF-69-1"
+   Target_cs_cz "PF-69-1"
+   Target_pl_pl "PF-69-1"
+   Target_ru_ru "PF-69-1"
+   Target_ja_jp "PF-69-1"
+   Target_ko_kr "PF-69-1"
+   Target_pt_br "PF-69-1"
+   Target_zh_cn "PF-69-1"
+   Comment "Designation of the PF-69-1 anti-tank grenade launcher, will serve as a display name in the UI"
+   Status TRANSLATION_DONE
+   Modified 1501227865
    Author "huhao"
    LastChanged "huhao"
    Labels {

@@ -1,0 +1,24 @@
+Projectile : "{32E12D322E107F1C}Prefabs/Weapons/Ammo/Ammo_Rocket_PG7VM.et" {
+ ID "DA5C6308000CDEF2"
+ components {
+  InventoryItemComponent "{526E87778842822F}" {
+   Attributes SCR_ItemAttributeCollection "{526E87778ACB229F}" {
+    ItemDisplayName UIInfo "{526E8777859BAACF}" {
+     Name "#VME-Magazine_Type69-1_Name"
+     Description "#VME-Magazine_Type69-1_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{529E88841E9EDF98}" {
+     Weight 2.2
+    }
+   }
+  }
+  MagazineComponent "{50F6614BB5D5B0A8}" {
+   UIInfo MagazineUIInfo "{560AE4EBFA0176D4}" {
+    Name "#VME-Magazine_Type69-1_Name"
+    Description "#VME-Magazine_Type69-1_Description"
+    m_sAmmoCaliber "#VME-AmmunitionID_85mm"
+    m_sAmmoType "#VME-AmmoType_Type69-1"
+   }
+  }
+ }
+}
