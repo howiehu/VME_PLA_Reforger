@@ -7,6 +7,9 @@ GenericEntity : "{A7AF84C6C58BA3E8}Prefabs/Weapons/MachineGuns/RPK74/MG_RPK74.et
      Name "#VME-Weapon_QBB81_Name"
      Description "#VME-Weapon_QBB81_Description"
     }
+    ItemPhysAttributes ItemPhysicalAttributes "{5534B7DA16FF5518}" {
+     Weight 5.15
+    }
    }
   }
   WeaponComponent "{CFBAA4B706BA66E8}" {
@@ -20,6 +23,10 @@ GenericEntity : "{A7AF84C6C58BA3E8}Prefabs/Weapons/MachineGuns/RPK74/MG_RPK74.et
        RoundsPerMinute 720
       }
      }
+     MagazineWell VME_MagazineWellQBZ81 "{5534B7DA16FF5571}" {
+     }
+     DispersionDiameter 0.04
+     DispersionRange 100
      MagazineTemplate "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et"
     }
    }

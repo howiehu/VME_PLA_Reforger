@@ -237,6 +237,46 @@ StringTable {
    }
    SourceFile "{98EA3A7DB57F989F}Prefabs/Weapons/Magazines/VME_Magazine_762x25_QSZ54_8rnd_Base.et"
   }
+  CustomStringTableItem "{597A93E8F5C099DD}" {
+   Id "VME-Vest_Type81_Description"
+   Target_en_us "Simple canvas chest rig for AK-type magazines, used by many military forces. "
+   Target_fr_fr "Sacoche thoracique en tissu pour chargeurs de type AK, en dotation chez les forces militaires du monde entier. "
+   Target_it_it "Semplice gilet tattico di tela per caricatori di fucili di tipo AK, utilizzato da molte forze militari. "
+   Target_de_de "Simple Leinen-Munitionsweste für AK-Magazine. Wird von vielen Militärorganisationen genutzt. "
+   Target_es_es "Un sencillo arnés de pecho hecho de lona para cargadores tipo AK que emplean muchas fuerzas militares. "
+   Target_cs_cz "Jednoduchý plátěný hrudní nosič na zásobníky typu AK, používaný různými armádami. "
+   Target_pl_pl "Prosta brezentowa kamizelka na magazynki do broni z rodziny AK, stosowana przez wiele sił zbrojnych. "
+   Target_ru_ru "Простой матерчатый разгрузочный жилет под магазины типа АК широко используются во многих силовых структурах. "
+   Target_ja_jp "多数の軍が使用する AK マガジン用のシンプルなキャンバス生地のチェストリグ。"
+   Target_ko_kr "다수의 군대에서 사용하는, 단순한 캔버스 재질의 AK 유형 탄창용 체스트 리그. "
+   Target_pt_br "Colete tático de lona simples para carregadores de AK, usados por diversas forças militares. "
+   Target_zh_cn "用于存放 AK 型弹匣的简易帆布胸挂，由许多军队装备使用。"
+   Comment "Description of Type 81 chest rig vest"
+   Status TRANSLATION_DONE
+   Modified 1501208708
+   Author "huhao"
+   LastChanged "huhao"
+  }
+  CustomStringTableItem "{597A93E8A28AEC6D}" {
+   Id "VME-Vest_Type81_Name"
+   Target_en_us "Type 81 Chest Rig"
+   Target_fr_fr "Sacoche thoracique Type 81"
+   Target_it_it "Gilet tattico Type 81"
+   Target_de_de "Type 81 Munitionsweste"
+   Target_es_es "Arnés de pecho Tipo 81"
+   Target_cs_cz "Hrudní nosič typ 81"
+   Target_pl_pl "Kamizelka Typ 81"
+   Target_ru_ru "Разгрузочный жилет Тип 81"
+   Target_ja_jp "81 式チェストリグ"
+   Target_ko_kr "Type 81 체스트 리그"
+   Target_pt_br "Colete tático Tipo 81"
+   Target_zh_cn "81 式胸挂"
+   Comment "Designation of Type 81 chest rig vest"
+   Status TRANSLATION_DONE
+   Modified 1501208591
+   Author "huhao"
+   LastChanged "huhao"
+  }
   CustomStringTableItem "{597A2CCACEE294B9}" {
    Id "VME-Weapon_82-2_Description"
    Target_en_us "All plastic handleless steel ball grenade with a 3.5 second timed fuze."

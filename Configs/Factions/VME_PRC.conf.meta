@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{7A6343A2C4303A0A}Configs/Factions/PRC.conf"
+ Name "{7A6343A2C4303A0A}Configs/Factions/VME_PRC.conf"
  Configurations {
   CONFResourceClass PC {
   }

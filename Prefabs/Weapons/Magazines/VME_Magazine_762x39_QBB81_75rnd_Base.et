@@ -7,9 +7,18 @@ GenericEntity : "{9569026177545A20}Prefabs/Weapons/Magazines/Magazine_545x39_RPK
      Name "#VME-Magazine_QBB81_Name"
      Description "#VME-Magazine_QBB81_Description"
     }
+    ItemPhysAttributes ItemPhysicalAttributes "{548695E22AFB97DA}" {
+     Weight 0.9
+     ItemVolume 400
+    }
    }
   }
   MagazineComponent "{CA6BE4D6B4DAFD69}" {
+   MagazineWell VME_MagazineWellQBZ81 "{548695E22AFB97C7}" {
+   }
+   UIInfo MagazineUIInfo "{57126733AA401586}" {
+    m_sAmmoCaliber "#AR-AmmunitionID_762x39mm"
+   }
    MaxAmmo 75
    AmmoConfig "{6810AE1CC6F1621D}Configs/Weapons/Ammo/Ammo_762x39.conf"
    AmmoMapping + {

@@ -7,9 +7,14 @@ GenericEntity : "{63C1E699345B24F9}Prefabs/Weapons/Magazines/Magazine_545x39_AK_
      Name "#VME-Magazine_QBZ81_Name"
      Description "#VME-Magazine_QBZ81_Description"
     }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 0.43
+    }
    }
   }
   MagazineComponent "{CA6BE4D6B4DAFD69}" {
+   MagazineWell VME_MagazineWellQBZ81 "{A5AAA6B6ACF001DF}" {
+   }
    UIInfo MagazineUIInfo "{57126733AA401586}" {
     m_sAmmoCaliber "#AR-AmmunitionID_762x39mm"
    }

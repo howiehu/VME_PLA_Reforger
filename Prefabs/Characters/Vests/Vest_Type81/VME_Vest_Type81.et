@@ -1,0 +1,17 @@
+GenericEntity : "{ED5574EA7F63B457}Prefabs/Characters/Vests/Vest_Type56/Vest_Type56.et" {
+ ID "50D8C49B3558F152"
+ components {
+  InventoryItemComponent "{5548C06BFBE56245}" {
+   Attributes SCR_ItemAttributeCollection "{5548C06BFBE56248}" {
+    ItemDisplayName UIInfo "{5548C06BFBE5624E}" {
+     Name "#VME-Vest_Type81_Name"
+     Description "#VME-Vest_Type81_Description"
+    }
+   }
+  }
+  SCR_UniversalInventoryStorageComponent "{56F28B905B975CAA}" {
+   MaxCumulativeVolume 1600
+   m_fMaxWeight 10
+  }
+ }
+}

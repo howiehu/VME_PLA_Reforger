@@ -7,6 +7,14 @@ SCR_ChimeraCharacter : "{23ADBBC31B6A3DC6}Prefabs/Characters/Factions/OPFOR/USSR
   FactionAffiliationComponent "{520EC9618276DF23}" {
    "faction affiliation" "VME_PRC"
   }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "VME_PRC"
+    m_aAuthoredLabels {
+     2 1653750936 34
+    }
+   }
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Jacket {
@@ -19,15 +27,28 @@ SCR_ChimeraCharacter : "{23ADBBC31B6A3DC6}Prefabs/Characters/Factions/OPFOR/USSR
      Prefab "{A7E6D7ECD5F684D7}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01.et"
     }
     LoadoutSlotInfo Vest {
-     Prefab "{ED5574EA7F63B457}Prefabs/Characters/Vests/Vest_Type56/Vest_Type56.et"
+     Prefab "{0ACE0527AFB9F725}Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
     }
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{56607B902B535037}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_M70.et"
+    }
+    ItemsInitConfigurationItem "{54A4D05608012D36}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_M70.et"
+    }
+    ItemsInitConfigurationItem "{5590D9E7EF8BF25D}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+    }
+    ItemsInitConfigurationItem "{5888FD8A82CA9F03}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
+    }
     ItemsInitConfigurationItem "{54A68D63FA941151}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Type81/VME_Vest_Type81.et"
      PrefabsToSpawn {
-      "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et"
+      "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{5AFF7CFD1FD1814E}Prefabs/Weapons/Grenades/VME_Grenade_82-2.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et" "{028F92946872DAEB}Prefabs/Weapons/Magazines/VME_Magazine_762x39_QBB81_75rnd_Ball.et"
      }
     }
    }
